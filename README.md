@@ -5,7 +5,7 @@
 
 - Kerja Praktik **Pengolahan Data Kependudukan Berbasis Web**
 
-- Buildwh Angga **Pembelian Tiket Bioskop Berbais Mobile mengunakan Kotline**
+- Tugas Besar BWAMUV **Pembelian Tiket Bioskop Berbais Mobile mengunakan Kotline**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
